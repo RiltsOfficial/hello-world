@@ -1,2 +1,3 @@
 # hello-world
-This is a test repository. Beneficial to me when started to dwelve into GitHub. //Rilts 
+
+//Rilts ~ I'd like to welcome myself into the beginning of a new journey into development and design. This will be a new up and coming age. #NeverAStepBack
